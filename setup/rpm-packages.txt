@@ -1,0 +1,17 @@
+#
+#  Author: Nho Luong
+#  Date: 2019-08-08 14:55:05 +0100 (Thu, 08 Aug 2019)
+#
+#  https://github.com/nholuongut/haproxy-configs
+#
+#  License: see accompanying Hari Sekhon LICENSE file
+#
+#  https://www.linkedin.com/in/nholuong
+#
+
+# ============================================================================ #
+#                            RPM Package Requirements
+# ============================================================================ #
+
+haproxy
+bc  # to check haproxy version for tests
